@@ -7,8 +7,8 @@
 ## How to use on Termux
 
 ```bash
-git clone https://github.com/YOUR_USER/YOUR_REPO
-cd YOUR_REPO
+git clone https://github.com/bonecopreparado/readme
+cd readme
 python readme.py
 ```
 
